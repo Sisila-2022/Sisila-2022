@@ -1,5 +1,5 @@
 ## Hi there 👋
-## 🔭 I’m currently working on student projects
+## 🔭 I’m currently working on students' projects
 <!--
 **Sisila-2022/Sisila-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
